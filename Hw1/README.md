@@ -1,7 +1,7 @@
 # 學習分析工具實務應用LATIA
 ## 廖執善 博士 Tom Liao, 	業界講師 Ryan Chung
-## Main.py 為主程式，會將所有圖表結果儲存到matplot資料夾裡面   
-## 透過使用plt.rcParams['font.sans-serif'] = ['Microsoft YaHei'] 以解決繁體中文無法顯示的問題  
+### Main.py 為主程式，會將所有圖表結果儲存到matplot資料夾裡面   
+### 透過使用plt.rcParams['font.sans-serif'] = ['Microsoft YaHei'] 以解決繁體中文無法顯示的問題  
 ### Dataset: Student Performance Dataset
 #### 學生表現數據是透過對中學學生數學課程的調查獲得的。  
 ### 9 Question:
