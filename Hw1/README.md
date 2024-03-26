@@ -1,8 +1,8 @@
 # 學習分析工具實務應用LATIA
 ## 廖執善 博士 Tom Liao, 	業界講師 Ryan Chung
-#### Dataset: Student Performance Dataset
+### Dataset: Student Performance Dataset
 #### 學生表現數據是透過對中學學生數學課程的調查獲得的。  
-### Question:
+### 9 Question:
 * 學生的整體成績分布如何？  
 * 男生與女生在成績上有無顯著差異？  
 * 學生的出勤率是否與其成績有關聯？  
