@@ -5,7 +5,7 @@ import os
 from matplotlib.font_manager import FontProperties
 
 # 設置Matplotlib的字體
-plt.rcParams['font.sans-serif'] = ['Microsoft YaHei']  # 例如，使用"Microsoft YaHei"字體
+plt.rcParams['font.sans-serif'] = ['Microsoft YaHei']  # 使用"Microsoft YaHei"字體
 plt.rcParams['axes.unicode_minus'] = False  # 解決負號（-）顯示為方塊的問題
 
 # 載入數據
