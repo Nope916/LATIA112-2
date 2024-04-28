@@ -14,4 +14,4 @@
 * 打工或參加社團活動是否影響學生的學業表現?  
 * 住校宿舍是否對學生的學習習慣或成績有影響?  
 ### Week9
-*  [code](<[(https://github.com/Nope916/LATIA112-2/blob/main/WEEK9/week9_demo_.ipynb)]>)  
+*  [code](<(https://github.com/Nope916/LATIA112-2/blob/main/WEEK9/week9_demo_.ipynb)>)  
