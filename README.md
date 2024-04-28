@@ -28,3 +28,6 @@ HW2請自行尋找相關的網頁資料，並對資料分別使用
 1. Requests & Beautiful Soup與Selenium函式庫(必要條件)
 2. Scrapy(加分條件)
 分別爬取後儲存成CSV檔案，且需要附上程式註解說明。
+* [連結](<https://github.com/Nope916/LATIA112-2/tree/main/Hw1](https://github.com/Nope916/LATIA112-2/tree/main/HW2>)  
+* [Source code](<https://github.com/Nope916/LATIA112-2/blob/main/HW2/HW2.ipynb>)  
+* [CSV File](<https://github.com/Nope916/LATIA112-2/blob/main/HW2/all_books.csv>)  
