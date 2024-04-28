@@ -1,6 +1,6 @@
 # HW2  
 ### 爬取網站
-* Books to scrape  
+* Books to scrape  一個專門設立給大家來爬蟲的網站
 * [網站](<https://books.toscrape.com/>)  
 
 ### 爬取內容  
