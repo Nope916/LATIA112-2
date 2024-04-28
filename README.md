@@ -14,4 +14,17 @@
 * 打工或參加社團活動是否影響學生的學業表現?  
 * 住校宿舍是否對學生的學習習慣或成績有影響?  
 ### Week9
-*  [code](<https://github.com/Nope916/LATIA112-2/blob/main/WEEK9/week9_demo_.ipynb>)  
+*  [code](<https://github.com/Nope916/LATIA112-2/blob/main/WEEK9/week9_demo_.ipynb>) 
+
+## Homework  
+### HW1  
+* HW1請自行找一組與盡量與教育相關的資料，並對這組資料提問至少6個問題後，使用Pandas回答，加上註解說明與圖形視覺化。  
+* [連結](<https://github.com/Nope916/LATIA112-2/tree/main/Hw1>)  
+* [Source code](<https://github.com/Nope916/LATIA112-2/blob/main/Hw1/Main.py>)  
+* [CSV File](<https://github.com/Nope916/LATIA112-2/blob/main/Hw1/Student%20Performance%20Dataset.csv>)  
+* [Pics](<https://github.com/Nope916/LATIA112-2/tree/main/Hw1/matplot>)
+### HW2
+* HW2請自行尋找相關的網頁資料，並對資料分別使用
+1. Requests & Beautiful Soup與Selenium函式庫(必要條件)
+2. Scrapy(加分條件)
+分別爬取後儲存成CSV檔案，且需要附上程式註解說明。
