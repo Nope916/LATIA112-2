@@ -16,7 +16,8 @@
 * 住校宿舍是否對學生的學習習慣或成績有影響?
 * [連結](<https://github.com/Nope916/LATIA112-2/tree/main/WEEK4>)
 ### Week9
-*  [code](<https://github.com/Nope916/LATIA112-2/blob/main/WEEK9/week9_demo_.ipynb>) 
+*  [Source Code](<https://github.com/Nope916/LATIA112-2/blob/main/WEEK9/week9_demo_.ipynb>)
+*  [連結](<https://github.com/Nope916/LATIA112-2/tree/main/WEEK9>)
 
 ## Homework  
 ### HW1  
