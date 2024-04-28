@@ -24,7 +24,7 @@
 * [CSV File](<https://github.com/Nope916/LATIA112-2/blob/main/Hw1/Student%20Performance%20Dataset.csv>)  
 * [Pics](<https://github.com/Nope916/LATIA112-2/tree/main/Hw1/matplot>)
 ### HW2
-* HW2請自行尋找相關的網頁資料，並對資料分別使用
+HW2請自行尋找相關的網頁資料，並對資料分別使用
 1. Requests & Beautiful Soup與Selenium函式庫(必要條件)
 2. Scrapy(加分條件)
 分別爬取後儲存成CSV檔案，且需要附上程式註解說明。
