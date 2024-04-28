@@ -13,5 +13,5 @@
 * 每日3C使用時間與每周總讀書時間的相關性如何?  
 * 打工或參加社團活動是否影響學生的學業表現?  
 * 住校宿舍是否對學生的學習習慣或成績有影響?  
-### Week7
-### Week8
+### Week9
+* [source code]<https://github.com/Nope916/LATIA112-2/tree/main/WEEK9>
